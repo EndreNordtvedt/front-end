@@ -1,4 +1,4 @@
-# front-end
+# frontend
 Front-end prosjekter
 
 Her lager jeg litt forskjellig nettsider.
